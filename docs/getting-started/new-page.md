@@ -1,6 +1,6 @@
 ---
 title: Ahh Test Page
-weight: 0
+weight: 3
 excerpt: lorem-ipsum
 layout: docs
 ---
